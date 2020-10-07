@@ -5,7 +5,7 @@
 - ⚙️ Mechanical Engineer that fell in love with coding.
 - 🔭 I’m currently working on the Microverse Program as a student.
 - 🌱 Learning Ruby on Rails, JS and React.
-- 🔊 Very communicative and proactive.
+- 🔊 Very communicative and proactive, also C2 proficient in English certified by Cambridge University.
 - ⚡ Fun fact: the only things I like more than talking are playing and listening to music.
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=abouhid&show_icons=true&hide_border=true)
