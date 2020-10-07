@@ -2,7 +2,7 @@
 
 ### Software Developer, Engineer and Musician.
 - 💻 Goal: Landing my first developer job!
-- ⚙️ Mechanical Engineer which decided to become a programmer.
+- ⚙️ Mechanical Engineer that fell in love with coding.
 - 🔭 I’m currently working on the Microverse Program as a student.
 - 🌱 Learning Ruby on Rails, JS and React.
 - 🔊 Very communicative and proactive.
