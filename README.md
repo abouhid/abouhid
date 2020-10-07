@@ -1,4 +1,4 @@
-## Hello, World! Alex here, welcome to my Github Profile.
+## Hello, World! Welcome to my Github Profile, I'll be your guide.
 
 ### Software Developer, Engineer and Musician.
 - 💻 Goal: Landing my first developer job!
