@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on the Microverse Program as a student.
 - 🌱 Learning Ruby on Rails, JS and React.
 - 🔊 Very communicative and proactive.
-- ⚡ Fun fact: the only things I like more than talking are playing and listening to music (guitar player since 9 y.o.).
+- ⚡ Fun fact: the only things I like more than talking are playing and listening to music.
 
 ![Alex's github stats](https://github-readme-stats.vercel.app/api?username=abouhid&show_icons=true&hide_border=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abouhid&layout=compact&theme=vue" />
