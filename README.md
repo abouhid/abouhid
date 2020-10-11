@@ -1,7 +1,7 @@
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
 
 ### Software Developer, Engineer and Musician.
-- 💻 Goal: Landing my first developer job!
+- 💻 Goal: Landing a developer job which I am proud of who I'm working with and what I'm working for!
 - ⚙️ Mechanical Engineer that fell in love with coding.
 - 🔭 I’m currently working on the Microverse Program as a student.
 - 🌱 Learning Ruby on Rails, JS and React.
