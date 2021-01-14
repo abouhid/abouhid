@@ -7,7 +7,7 @@
 - 💻 Goal: Landing a developer job which I am proud of who I'm working with and what I'm working for!
 - ⚙️ Mechanical Engineer that fell in love with coding.
 - 🔭 I’m currently working on the Microverse Program as a student.
-- 🌱 Learning Ruby on Rails, JS and React.
+- 🌱 Mastered Ruby on Rails, JS and React.
 - 🔊 Very communicative and proactive, also C2 proficient in English certified by Cambridge University.
 - ⚡ Fun fact: the only things I like more than talking are playing/listening to music.
 
