@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abouhid/abouhid)
-
-
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
 
 ### Software Developer, Engineer and Musician.
